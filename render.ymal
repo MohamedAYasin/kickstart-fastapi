@@ -1,4 +1,4 @@
-# render.yaml
+# render.ymal file
 services:
   - type: web
     name: diabetes-prediction-api
